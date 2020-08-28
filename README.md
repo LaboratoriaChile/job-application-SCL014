@@ -69,7 +69,7 @@ que te guste y/o que te permita empezar tu carrera con fuerza.
 Estas son las etapas por las que normalmente vas a pasar, considerando un proceso
 de reclutamiento “estándar”:
 
-![esquema](https://lh4.googleusercontent.com/dTHLBoTptCvnQQbzwLUrtqeXCCix0lCuZOCtmzcPONOqhHZMC44CmMI59PHwiZRBEiQLVrL4Es-KZQ=w1434-h700-rw) 
+![esquema](https://i.ibb.co/D1CJ8BZ/diagrama-JA.png) 
 
 Para poder pasar por esta simulación, ponemos a tu disposición diferentes recursos
 que te ayudarán a prepararte.
